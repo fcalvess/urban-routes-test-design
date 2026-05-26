@@ -1,30 +1,51 @@
-# Sprint 2 — Design de Testes do Urban Routes 🚗🧪
+# 🚗 Sprint 2 — Test Design for Urban Routes
 
-## 📝 Descrição do Projeto
-Neste sprint, o foco foi **planejar testes** para o recurso de **compartilhamento de carros** do aplicativo **Urban Routes**, especialmente o formulário **"Adicionar carteira de motorista"**.  
-O objetivo principal: aplicar **técnicas de design de teste**, definindo **classes de equivalência**, **valores-limite** e criar **casos de teste** positivos e negativos. ✅❌
+## 📝 Project Overview
 
----
+In this sprint, the focus was on designing test cases for the carsharing feature of the Urban Routes application, specifically the "Add driver license" form.
 
-## 🎯 Objetivos do Sprint
-- 💡 Aplicar técnicas de **design de teste**  
-- 🔢 Definir **classes de equivalência** e **valores-limite**  
-- 🛠️ Criar **casos de teste** estruturados e claros  
-- 📊 Preparar documentação pronta para execução futura  
+The main objective was to apply test design techniques such as equivalence partitioning and boundary value analysis, and to create structured positive and negative test cases.
 
 ---
 
-## 📂 Planilha do Sprint 2
-Todas as informações detalhadas estão na planilha do Google Sheets:  
-📄 Acesse aqui a planilha do Sprint 2
+## 🎯 Sprint Objectives
 
-https://docs.google.com/spreadsheets/d/1T9UFZeoIftPru91xz2QszImpK4vYvw3I/edit?usp=sharing&ouid=110309111243051761047&rtpof=true&sd=true
-
-> Contém classes de equivalência, valores-limite e todos os casos de teste. 🐛🧪
+- 💡 Apply test design techniques  
+- 🔢 Define equivalence classes and boundary values  
+- 🛠️ Create structured test cases  
+- 📊 Prepare documentation for future test execution  
 
 ---
 
-## ✅ Conclusão
-Sprint 2 concluído com **planejamento completo dos testes** para o formulário de compartilhamento de carros, pronto para a **execução nos próximos sprints**. 🚀
+## 📂 Project Resources
 
+All detailed information is available in the Google Sheets document below:
 
+https://docs.google.com/spreadsheets/d/1T9UFZeoIftPru91xz2QszImpK4vYvw3I/edit?usp=sharing
+
+This file includes:
+- Equivalence classes  
+- Boundary value analysis  
+- Positive and negative test cases  
+
+---
+
+## 🧠 Key Skills Demonstrated
+
+- Test design techniques  
+- Equivalence partitioning  
+- Boundary value analysis  
+- Test case creation  
+- QA documentation  
+
+---
+
+## 🚀 Outcome
+
+This sprint demonstrates the ability to design structured test cases before execution, ensuring better test coverage and more efficient QA processes.
+
+---
+
+## ⭐ Author
+
+Fernanda Carneiro Alves — Junior QA Engineer
